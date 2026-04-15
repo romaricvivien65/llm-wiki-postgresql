@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="LLM Wiki + PostgreSQL" width="100%">
+</p>
+
 # LLM Wiki + PostgreSQL: Scaling AI-Maintained Knowledge Bases Beyond the 200-Page Limit
 
 > **Status**: Theoretical architecture — not yet tested in production. Published to share with the community and invite feedback.
